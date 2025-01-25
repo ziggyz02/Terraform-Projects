@@ -28,9 +28,9 @@ This learning experience is based on the following course:
 
 This repository contains:
 
-    Terraform Configuration Files (.tf) used for AWS deployments.
-    Practice Scripts implementing the core Terraform concepts.
-    Notes & Documentation summarizing my understanding of Terraform.
+    main.tf: Terraform Configuration Files used for AWS deployments.
+    webvars.tfvars: contains variable values.
+    Notes summarizing my understanding of Terraform.
 
 ✨ Why I Did This Project
 
